@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Веб-додаток: Модель Леслі (4 вікові класи) — Dash + Plotly
-#
-# Запуск:
-#   pip install dash==2.* plotly numpy pandas
-#   python app.py
-# Потім відкрий у браузері адресу, яку покаже консоль (зазвичай http://127.0.0.1:8050)
 
 import numpy as np
 import pandas as pd
